@@ -20,7 +20,7 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
     [   
         [
             InlineKeyboardButton(
-                text="📚 Commands", callback_data="command_menu"
+                text="🥀 Commands", callback_data="command_menu"
             ),
             InlineKeyboardButton(
                 text="🔧 Settings", callback_data="settingm"
@@ -28,10 +28,10 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/TechZBots"
+                text="🥀 ×°𝓞𝔀𝓷𝓮𝓻°× 🥀", url="https://t.me/nehu_god"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/TechZBots_Support"
+                text="🥀 ×°𝓞𝔀𝓷𝓮𝓻°× 🥀", url="https://t.me/silent_killer_008"
             ),                       
         ],        
     ]
@@ -45,15 +45,15 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
         ],
         [   
             InlineKeyboardButton(
-                text="📚 Commands", callback_data="command_menu"
+                text="🥀 Commands", callback_data="command_menu"
             ),                       
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/TechZBots"
+                text="🥀 ×°𝓞𝔀𝓷𝓮𝓻°× 🥀", url="https://t.me/nehu_god"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/TechZBots_Support"
+                text="🥀 ×°𝓞𝔀𝓷𝓮𝓻°× 🥀", url="https://t.me/silent_killer_008"
             ),                       
         ],        
     ]
