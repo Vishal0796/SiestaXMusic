@@ -23,8 +23,8 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 UPSTREAM_REPO = "https://github.com/TechShreyash/SiestaXMusic"
 UPSTREAM_BRANCH = "main"
 
-SUPPORT_CHANNEL = "https://t.me/TechZBots"
-SUPPORT_GROUP = "https://t.me/TechZBots_Support"
+SUPPORT_CHANNEL = "https://t.me/silent_killer_008"
+SUPPORT_GROUP = "https://t.me/nehu_god"
 
 THUMBNAIL = getenv("THUMB_LINK") 
 
